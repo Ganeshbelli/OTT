@@ -46,13 +46,13 @@ The **OTT Platform Merger Strategic Insights** project provides in-depth analysi
 
 ## 📷 Dashboard Preview
 ### Home Page
-![Home Page](home_page.png)
+![Uploading image.png…]()
 
-### Recommendations
-![Recommendations](recommendations_page.png)
+### Recommendations and Strategic Insights
+![image](https://github.com/user-attachments/assets/18f8b4f4-3dde-4cff-ab92-0f2ec3d14342)
 
 ### Comparison & Revenue Insights
-![Comparison](comparison_page.png)
+![image](https://github.com/user-attachments/assets/58a8e02b-357a-4e15-becb-424db6c4f8b8)
 
 ## 🚀 Tools & Technologies Used
 - **Power BI** (Data visualization & dashboarding)
