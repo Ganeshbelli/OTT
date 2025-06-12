@@ -45,8 +45,6 @@ The **OTT Platform Merger Strategic Insights** project provides in-depth analysi
 - **S.S. Rajamouli:** _Globally acclaimed director with blockbuster hits like Baahubali & RRR._
 
 ## 📷 Dashboard Preview
-### Home Page
-![image](https://github.com/user-attachments/assets/4f06eb79-cbf9-4a91-bc31-e6424280a885)
 
 ### Recommendations and Strategic Insights
 ![image](https://github.com/user-attachments/assets/18f8b4f4-3dde-4cff-ab92-0f2ec3d14342)
