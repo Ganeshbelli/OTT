@@ -68,5 +68,5 @@ The **OTT Platform Merger Strategic Insights** project provides in-depth analysi
 If you found this project insightful, feel free to connect with me on **LinkedIn** or check out my **GitHub portfolio**!
 
 ---
-📌 **Author**: _Manwith Modala_  
+📌 **Author**: _Ganesh_  
 🔗 **Project Link**: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWJjZDdmODUtMzI1My00NzQ3LWIyMzctNzZhZDk1YTI0MDZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=a7b6e33daeeeec3284d1)
